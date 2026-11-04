@@ -50,8 +50,8 @@ I'm a BCA student building a career in data. I enjoy exploring datasets, finding
 
 ## 🎓 Education
 
-**Bachelor of Computer Applications (BCA)**
-S.S. Jain Subodh P.G. Autonomous College
+**Bachelor of Computer Applications (BCA)**<br>
+S.S. Jain Subodh P.G. (Autonomous) College<br>
 Expected Graduation: 2027
 
 ---
